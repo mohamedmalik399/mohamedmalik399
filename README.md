@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Malik
 
 <p align="left">
-  <img src="https://behance.net" alt="Network Infrastructure Header Banner" width="100%" />
+  <img src="https://githubusercontent.com" onerror="this.src='https://unsplash.com'" alt="Network Infrastructure Header Banner" width="100%" />
 </p>
 
 ### 🛠️ Network Engineer | Cisco Networking | CCNA 200-301
@@ -80,15 +80,15 @@ This profile documents my journey from **CCNA theory → hands-on configuration 
 
 ## 📂 Featured Networking Projects
 
-### 🏥 [Hospital Network Setup](https://github.com/mohamedmalik399/Hospital-Network-Setup)
+### 🏥 [Hospital Network Setup](https://github.com)
 A practical Cisco network design and configuration project based on a hospital network scenario.
 * **Focus:** Network design, VLAN segmentation, routing, switching, and connectivity.
 
-### 🔐 [DHCP Snooping + Dynamic ARP Inspection](https://github.com/mohamedmalik399/ccna-dhcp-snooping-dai-packet-tracer)
+### 🔐 [DHCP Snooping + Dynamic ARP Inspection](https://github.com)
 A Cisco Packet Tracer security lab demonstrating Layer 2 protection using **DHCP Snooping** and **Dynamic ARP Inspection (DAI)**.
 * **Focus:** Trusted/untrusted ports, DHCP security, ARP inspection, and protection against Layer 2 attacks.
 
-### 🌐 [Cisco Networking Labs](https://github.com/mohamedmalik399/my-cisco-labs)
+### 🌐 [Cisco Networking Labs](https://github.com)
 A collection of hands-on Cisco labs used to practice and reinforce CCNA networking concepts.
 
 ---
@@ -105,13 +105,13 @@ Currently strengthening my networking knowledge through hands-on labs, Cisco con
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-malik-3866b1143/" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/MMohamedMalik" target="_blank">
+  <a href="https://x.com" target="_blank">
     <img src="https://shields.io" alt="X" />
   </a>
-  <a href="https://github.com/mohamedmalik399" target="_blank">
+  <a href="https://github.com" target="_blank">
     <img src="https://shields.io" alt="GitHub" />
   </a>
 </p>
